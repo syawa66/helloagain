@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.Header {
+    background-color: rgba(190,200,150,0.5);
+	height:100px;
+    width:1200px;
+    margin: auto;
+    text-align: center;
+}
+
+body {
+    font-family: 'Cantarell', sans-serif;
+}
+
+.h1 {
+    font-size: 2em;
+    text-align: left;
+    margin:10px 0 10px 0;
+    padding: 10px 0 0 20px;
+}
+
+.About {
+    display: flex;
+    align-items: flex-start;
+    
+}
+
